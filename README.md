@@ -22,6 +22,6 @@
 
 ![Dharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharun-CK)
 
-(![LeetCode Stats](https://leetcard.jacoblin.cool/dharun_c_k?theme=dark&font=ABeeZee&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharun_c_k?theme=dark&font=ABeeZee&ext=contest)
 
 [![Dharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharun-CK&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Dharun-CK/github-readme-activity-graph)
