@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Dharun C.K
 
  SDE-Full Stack Developer @Fresher @Freelancer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 Here's my [portfolio is loading!..]                                              
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI,IOT
