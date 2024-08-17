@@ -1,6 +1,6 @@
-# Hi there 👋 It's me Dharun C.K
-
- SDE-Full Stack Developer @Fresher @Freelancer
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+ Hi there 👋 It's me Dharun C.K</br>
+I am Passinate in SDE-Full Stack Developer @Fresher @Freelancer
 <img align="right" width="370" height="290" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 Here's my [portfolio is loading!..]                                              
 - 🌱 I’m currently learning DSA
