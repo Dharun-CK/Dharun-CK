@@ -23,12 +23,8 @@ I am Passinate in SDE-Full Stack Developer @Fresher @Freelancer
 
 [![Dharun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharun-CK&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Dharun-CK/github-readme-activity-graph)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dharun-CK&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dharun-CK&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharun-CK&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dharun-CK&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
