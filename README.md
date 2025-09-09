@@ -2,7 +2,7 @@
  Hi there 👋 It's me Dharun C.K</br>
 I am Passinate in SDE-Full Stack Developer @Fresher @Freelancer
 <img align="right" width="570" height="390" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-- 🔭 Here's my portfolio(https://dharunck.vercel.app/)                                              
+- 🔭 Here's my [portfolio](https://dharunck.vercel.app/)                                              
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Full-Stack,MERN,Front-End.
 - 🤔 I’m looking for  Placements in FAANG
